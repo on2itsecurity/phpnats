@@ -1,6 +1,8 @@
 phpnats
 =======
 
+(Forked from the abandoned [repejota/phpnats](https://github.com/repejota/phpnats) to try to fix the notices in the latest tagged version)
+
 **Travis**
 
 | Master  | Develop |
