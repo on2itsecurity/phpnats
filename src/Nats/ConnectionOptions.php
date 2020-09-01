@@ -58,7 +58,7 @@ class ConnectionOptions
      *
      * @var string
      */
-    private $version = '0.8.2';
+    private $version = '0.8.7.1';
 
     /**
      * If verbose mode is enabled.
